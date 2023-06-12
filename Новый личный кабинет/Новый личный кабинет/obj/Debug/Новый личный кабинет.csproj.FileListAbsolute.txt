@@ -1,0 +1,29 @@
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.csproj.AssemblyReference.cache
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Form1.resources
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Properties.Resources.resources
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.csproj.GenerateResource.cache
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.csproj.CoreCompileInputs.cache
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Form2.resources
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\bin\Debug\Новый личный кабинет.exe.config
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\bin\Debug\Новый личный кабинет.exe
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\bin\Debug\Новый личный кабинет.pdb
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.exe
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.pdb
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.g.resources
+C:\Users\kazax\source\repos\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Form3.resources
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\bin\Debug\Новый личный кабинет.exe.config
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\bin\Debug\Новый личный кабинет.exe
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\bin\Debug\Новый личный кабинет.pdb
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.csproj.AssemblyReference.cache
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.csproj.SuggestedBindingRedirects.cache
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.g.resources
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Form1.resources
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Form2.resources
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Form3.resources
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Properties.Resources.resources
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.csproj.GenerateResource.cache
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.csproj.CoreCompileInputs.cache
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.exe
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый личный кабинет.pdb
+E:\2 курс\Яковлев\С#\Новый личный кабинет\Новый личный кабинет\obj\Debug\Новый_личный_кабинет.Form4.resources
