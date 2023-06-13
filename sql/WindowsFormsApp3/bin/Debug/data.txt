@@ -1,0 +1,6 @@
+User:asd||Password:ASDqwe123!||Role:user
+User:zxc||Password:qwe123A!||Role:admin
+User:qwe||Password:qwe123A!||Role:
+User:ert||Password:ERTert123!||Role:admin
+User:vanya||Password:Wiop112345!||Role:
+User:vip||Password:Wiop112345!||Role:
